@@ -1,0 +1,15 @@
+.card {
+  height: 10rem;
+  background-color: yellow;
+  width: 12rem;
+  margin-top: 50px;
+}
+
+.card_data {
+  font-size: 40px;
+  color: red;
+}
+.main {
+  display: flex;
+  justify-content: space-around;
+}
